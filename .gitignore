@@ -1,0 +1,9 @@
+.venv
+.vscode
+.idea
+cmake-build-debug
+cmake-build-release
+Output
+DiscordRPC-Release
+__pycache__
+*.iss
